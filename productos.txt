@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1670539783033
+  },
+  {
+    "id": 2,
+    "timestamp": 1670539895859
+  },
+  {
+    "id": 3,
+    "timestamp": 1670540182181,
+    "name": "azucar",
+    "description": 50,
+    "price": "comida",
+    "thumbnail": "asd",
+    "stock": 5
+  }
+]
